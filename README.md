@@ -7,4 +7,5 @@ this utility ist written with python 3.8, :
 3) finally writes the output data into a json file
 
 USAGE: python run.py file-url output-data-name
+
 (has two arguments)
